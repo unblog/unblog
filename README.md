@@ -1,6 +1,6 @@
 ## Hello I'm Don (@donkeyshark)
 
-**unblog/unblog** is a ✨ _repository_ ✨ from origin source [UNBLOG](https://unblog.ch)
+I'm by the contributor of **unblog/unblog** this is a ✨ _repository_ ✨ from origin source [UNBLOG](https://unblog.ch)
 
 About Me
 
