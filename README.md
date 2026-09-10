@@ -1,6 +1,6 @@
 ## Hello I'm Don
 
-**unblog/unblog** is a ✨ _additional_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**unblog/unblog** is a ✨ _additional_ ✨ repository because its `README.md`.
 
 About Me
 
