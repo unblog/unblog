@@ -5,9 +5,9 @@ I'm by the contributor of **unblog/unblog** a ✨ _repository_ ✨ from origin [
 About Me
 
 - 🔭 I’m currently building on advanced osTicket
-- 🌱 I’m currently improving my skills in python
-- 👯 I’m looking to collaborate on Roundcube
+- 🌱 Currently I'm improving my skills in python
+- 👯 In the course of my work, I maintain a collaborative relationship with Roundcube
 - 🤔 I’m looking for genuine human strength, AI-generated attributes take a back seat
-- 💬 Ask me about Tom Yum Goong! I'll show you how to cook a spicy soup
+- 💬 Ask me about cooking a spicy soup, I'll show you how to Tom Yum Goong!
 - 📫 Let's stay in touch on [Mastadon](https://swiss.social/@unblog)
 - ⚡ Fun fact: E=mc² is valid until it is disproven
