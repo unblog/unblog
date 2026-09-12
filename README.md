@@ -12,4 +12,5 @@ About Me
 - 📫 Let's stay in touch on [Mastadon](https://swiss.social/@unblog)
 - ⚡ Fun fact: E=mc² is valid until it is disproven
 ---
-![Quote of the Day](https://readme-daily-quotes.vercel.app/api)
+![Programming Quote](https://github-readme-quotes-bay.vercel.app/quote)
+
