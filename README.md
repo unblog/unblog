@@ -4,8 +4,8 @@ I'm by the contributor of **unblog/unblog** a ✨ _repository_ ✨ from origin [
 
 About Me
 
-- 🔭 I’m currently building on advanced osTicket
-- 🌱 Currently I'm improving my skills in python
+- 🔭 I’m currently building osTicket extensions
+- 🌱 I'll probably improve my Python skills as well
 - 👯 In the course of my work, I maintain a collaborative relationship with Roundcube
 - 🤔 I’m looking for genuine human strength, AI-generated attributes take a back seat
 - 💬 Ask me about cooking a spicy soup, I'll show you how to Tom Yum Goong!
