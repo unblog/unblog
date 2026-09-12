@@ -13,5 +13,4 @@ About Me
 - ⚡ Fun fact: E=mc² is valid until it is disproven
 ---
 ### Quote of the Day
-![Quote of the Day](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
-
+![Quote of the Day](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&quoteColor=349e23)
