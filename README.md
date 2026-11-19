@@ -2,7 +2,7 @@
 
 I'm by the contributor of **unblog/unblog** a ✨ _repository_ ✨ from origin [UNBLOG](https://unblog.ch)
 
-About Me
+My Journey
 
 - 🔭 I’m currently building osTicket extensions
 - 🌱 I'll probably improve my python skills as well
